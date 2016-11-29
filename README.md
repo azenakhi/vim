@@ -1,4 +1,4 @@
-# requirements vim IDE 
+# Requirements vim IDE 
 Binary vim version 7.4 or later
 
 # Additional informations
